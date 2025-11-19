@@ -34,7 +34,7 @@ Portal full-stack desenvolvido do zero para consolidar observabilidade de todo e
 **Stack:** Python (Backend), JavaScript/HTML/CSS (Frontend), SQLite, APIs REST  
 **Integrações:** Dynatrace, Grafana, Zabbix
 
-**2+ módulos criados:**
+**29 módulos criados:**
 - 🔴 **Observabilidade:** Problems, Métricas/SLA, SLOs, Performance, RUM, Synthetic, Logs
 - 🔒 **Segurança:** Application Security, Attack Analytics
 - 🎫 **ITSM:** Incidentes, Mudanças, Service Desk
@@ -58,7 +58,7 @@ Scripts Python para backup automatizado de configurações Dynatrace via APIs.
 
 **Impacto:** Disaster Recovery + versionamento de configurações.
 
-📦 **Em breve:** Repositório open-source com documentação completa.
+🔗 **Repositório:** [github.com/rafa3lmsantos/dynatrace-backup-tool](https://github.com/rafa3lmsantos/dynatrace-backup-tool)
 
 ---
 
@@ -91,8 +91,8 @@ Scripts Python para backup automatizado de configurações Dynatrace via APIs.
 ## 🎓 Certificações
 
 - ✅ **Microsoft Azure Fundamentals (AZ-900)** - 2024
-- 🔄 **Azure Administrator Associate (AZ-104)** - Em andamento
-- 📅 **Azure Solutions Architect Expert (AZ-305)** - Planejado (meta: fev/2026)
+- 🔄 **Azure Administrator Associate (AZ-104)** - Em andamento (meta: jan/2026)
+- 📅 **Azure Solutions Architect Expert (AZ-305)** - Planejado (meta: abr/2026)
 
 ---
 
@@ -162,9 +162,9 @@ Gestão de infraestrutura cloud, on-premises e sustentação de ambientes críti
 
 ## 📊 GitHub Stats
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa3lmsantos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa3lmsantos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ---
 
