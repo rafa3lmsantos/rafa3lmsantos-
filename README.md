@@ -160,14 +160,6 @@ Gestão de infraestrutura cloud, on-premises e sustentação de ambientes críti
 
 ---
 
-## 📊 GitHub Stats
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafa3lmsantos&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafa3lmsantos&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
----
-
 ## 🎯 Objetivos 2026
 
 - 🎓 Certificações: AZ-104 (jan), AZ-305 (abr)
